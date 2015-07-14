@@ -1,0 +1,13 @@
+# Another testing obj file from Henry!
+
+v -0.5 0   0
+v 0    0   0
+v 0.5  0   0 
+v 0.25 0.5 0
+v 0    1   0 
+v -.25 0.5 0
+
+f 1 2 6
+f 2 3 4
+f 4 5 6
+f 2 4 6
